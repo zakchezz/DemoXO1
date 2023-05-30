@@ -1,0 +1,11 @@
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\bin\Debug\DemoXO1.exe.config
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\bin\Debug\DemoXO1.exe
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\bin\Debug\DemoXO1.pdb
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\bin\Debug\ClassLibrary1.dll
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\bin\Debug\ClassLibrary1.pdb
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.csproj.AssemblyReference.cache
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.csproj.SuggestedBindingRedirects.cache
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.csproj.CoreCompileInputs.cache
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.csproj.CopyComplete
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.exe
+C:\Users\shefl\OneDrive\Рабочий стол\Универ\Четвертый семестр\Программирование\Игра\DemoXO1\obj\Debug\DemoXO1.pdb
